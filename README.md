@@ -1,7 +1,4 @@
-kaggle_AMS_2013_14_solar
-========================
-
-kaggle-AMS 2013-14 Solar Energy
+!!! Read this file in "code" or "Raw" mode
 
 How to run:
 1. Set up a folder with the following structure:
